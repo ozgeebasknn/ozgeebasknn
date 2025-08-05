@@ -5,7 +5,7 @@ Software Developer
 -------------
 
 * 🌍  I'm based in Izmir
-* ✉️  You can contact me at [ozgebaskin24@hotmail.com](mailto:ozgebaskin24@hotmail.com)
+* ✉️  You can contact me at [ozgebaskin24@hotmail.com](mailto:ozge.baskin@hotmail.com)
 * 🧠  I'm learning Node.js, Vue.js, Python, Machine Learning
 
 ### Skills
